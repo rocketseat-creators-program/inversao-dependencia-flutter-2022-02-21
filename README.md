@@ -2,7 +2,7 @@
 
 # Inversão de dependência
 
-Nessa aula vemos como utilizar dos packages ao nosso favor, sem criar dependência perigosas que fragilizam a estrutura do aplicativo, nesse sentido abstraímos o que queremos usar e criamos classes a nossa maneira para não ter 100% da dependência de terceiros.
+Nessa aula vemos como utilizar dos packages ao nosso favor, sem criar dependências perigosas que fragilizam a estrutura do aplicativo, nesse sentido abstraímos o que queremos usar e criamos classes a nossa maneira para não ter 100% de dependência de bibliotecas de terceiros.
 
 ## Expert
 
