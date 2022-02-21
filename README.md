@@ -1,17 +1,11 @@
-# reverse_dependence
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-A new Flutter project.
+# Inversão de dependência
 
-## Getting Started
+Nessa aula vemos como utilizar dos packages ao nosso favor, sem criar dependência perigosas que fragilizam a estrutura do aplicativo, nesse sentido abstraímos o que queremos usar e criamos classes a nossa maneira para não ter 100% da dependência de terceiros.
 
-This project is a starting point for a Flutter application.
+## Expert
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# inversao-dependencia-flutter-2022-02-21
+| [<img src="https://avatars.githubusercontent.com/u/23418948?s=460&u=da2788c88f381c94c419ac3f615324bfdbea807e&v=4" width="75px;"/>](https://github.com/RenatoLucasMota) |
+| :-: |
+|[Renato Mota](https://github.com/RenatoLucasMota)|
